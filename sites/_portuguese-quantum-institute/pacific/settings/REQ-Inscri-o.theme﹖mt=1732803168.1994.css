@@ -1,0 +1,20 @@
+
+/*BEGIN text_1530028700813*/
+#builder-sections #text_1530028700813 {background-color:var(--cor1) !important; border-color:var(--cor1) !important;}
+#builder-sections #text_1530028700813 .omw-sentence {border-color:var(--cor1) !important;}
+#builder-sections #text_1530028700813 .omw-sentence {border-left:0px solid var(--cor1) !important;}
+#builder-sections #text_1530028700813 .omw-sentence {border-right:0px solid var(--cor1) !important;}
+#builder-sections #text_1530028700813 .omw-sentence {border-top:0px solid var(--cor1) !important;}
+#builder-sections #text_1530028700813 .omw-sentence {border-bottom:0px solid var(--cor1) !important;}
+/*END text_1530028700813*/
+
+/*BEGIN form_1646924910464*/
+#form_1646924910464 .omw-customField button:hover {color:var(--cor5) !important; background-color:var(--cor2) !important;}
+#form_1646924910464 .errorClass {border: 1px solid var(--cor3) !important;}
+#form_1646924910464 input::-webkit-input-placeholder, textarea::-webkit-input-placeholder{color: var(--cor1);}
+#form_1646924910464 input:-ms-input-placeholder, textarea:-ms-input-placeholder{color: var(--cor1);}
+#form_1646924910464 input::-moz-placeholder, textarea::-moz-placeholder{color: var(--cor1);}
+#form_1646924910464 input:-moz-placeholder, textarea:-moz-placeholder{color: var(--cor1);}
+#form_1646924910464 .omw-form-select .nice-select{background-color: var(--cor4);color:var(--cor1); font-size:14px !important;}
+
+/*END form_1646924910464*/

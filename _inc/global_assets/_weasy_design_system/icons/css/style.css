@@ -1,0 +1,255 @@
+@font-face {
+  font-family: 'w-icons';
+  src:  url('../fonts/w-icons%EF%B9%96tvzlrx.eot');
+  src:  url('../fonts/w-icons%EF%B9%96tvzlrx.eot#iefix') format('embedded-opentype'),
+    url('../fonts/w-icons%EF%B9%96tvzlrx.ttf') format('truetype'),
+    url('../fonts/w-icons%EF%B9%96tvzlrx.woff') format('woff'),
+    url('../fonts/w-icons%EF%B9%96tvzlrx.svg#w-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="wi-"], [class*=" wi-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'w-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.wi-loader:before {
+  content: "\e949";
+}
+.wi-arrow-down-left:before {
+  content: "\e900";
+}
+.wi-arrow-down-right:before {
+  content: "\e901";
+}
+.wi-arrow-down:before {
+  content: "\e902";
+}
+.wi-arrow-left:before {
+  content: "\e903";
+}
+.wi-arrow-right:before {
+  content: "\e904";
+}
+.wi-arrow-up-left:before {
+  content: "\e905";
+}
+.wi-arrow-up-right:before {
+  content: "\e906";
+}
+.wi-arrow-up:before {
+  content: "\e907";
+}
+.wi-bank-financing:before {
+  content: "\e908";
+}
+.wi-bank-transfer:before {
+  content: "\e909";
+}
+.wi-box:before {
+  content: "\e90a";
+}
+.wi-calendar:before {
+  content: "\e90b";
+}
+.wi-check-filled .path1:before {
+  content: "\e90c";
+  color: rgb(43, 124, 47);
+}
+.wi-check-filled .path2:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.wi-check:before {
+  content: "\e90e";
+}
+.wi-chevron-down:before {
+  content: "\e90f";
+}
+.wi-chevron-left:before {
+  content: "\e910";
+}
+.wi-chevron-right:before {
+  content: "\e911";
+}
+.wi-chevron-up:before {
+  content: "\e912";
+}
+.wi-coffee:before {
+  content: "\e913";
+}
+.wi-crypto:before {
+  content: "\e914";
+}
+.wi-custom:before {
+  content: "\e915";
+}
+.wi-customer-balance:before {
+  content: "\e916";
+}
+.wi-delivery-on-collection:before {
+  content: "\e917";
+}
+.wi-delivery:before {
+  content: "\e918";
+}
+.wi-email:before {
+  content: "\e919";
+}
+.wi-external-link:before {
+  content: "\e91a";
+}
+.wi-facebook:before {
+  content: "\e91b";
+}
+.wi-filter:before {
+  content: "\e91c";
+}
+.wi-flame .path1:before {
+  content: "\e91d";
+  color: rgb(243, 112, 90);
+}
+.wi-flame .path2:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: rgb(255, 209, 92);
+}
+.wi-gift-card:before {
+  content: "\e91f";
+}
+.wi-gift:before {
+  content: "\e920";
+}
+.wi-heart:before {
+  content: "\e921";
+}
+.wi-help-circle:before {
+  content: "\e922";
+}
+.wi-home:before {
+  content: "\e923";
+}
+.wi-info:before {
+  content: "\e924";
+}
+.wi-instagram:before {
+  content: "\e925";
+}
+.wi-link:before {
+  content: "\e926";
+}
+.wi-linkedin:before {
+  content: "\e927";
+}
+.wi-mail:before {
+  content: "\e928";
+}
+.wi-map-pin-1:before {
+  content: "\e929";
+}
+.wi-map-pin:before {
+  content: "\e92a";
+}
+.wi-menu:before {
+  content: "\e92b";
+}
+.wi-messenger:before {
+  content: "\e92c";
+}
+.wi-minus:before {
+  content: "\e92d";
+}
+.wi-on-table:before {
+  content: "\e92e";
+}
+.wi-pickup:before {
+  content: "\e92f";
+}
+.wi-pinterest:before {
+  content: "\e930";
+}
+.wi-plus:before {
+  content: "\e931";
+}
+.wi-search:before {
+  content: "\e932";
+}
+.wi-share:before {
+  content: "\e933";
+}
+.wi-shopping-bag:before {
+  content: "\e934";
+}
+.wi-shopping-cart:before {
+  content: "\e935";
+}
+.wi-size-guide:before {
+  content: "\e936";
+}
+.wi-snapchat:before {
+  content: "\e937";
+}
+.wi-sortable:before {
+  content: "\e938";
+}
+.wi-star-filled:before {
+  content: "\e939";
+}
+.wi-star-outlined:before {
+  content: "\e93a";
+}
+.wi-store:before {
+  content: "\e93b";
+}
+.wi-telegram:before {
+  content: "\e93c";
+}
+.wi-tiktok:before {
+  content: "\e93d";
+}
+.wi-trash:before {
+  content: "\e93e";
+}
+.wi-truck:before {
+  content: "\e93f";
+}
+.wi-tumblr:before {
+  content: "\e940";
+}
+.wi-twitter-x:before {
+  content: "\e941";
+}
+.wi-user:before {
+  content: "\e942";
+}
+.wi-vimeo:before {
+  content: "\e943";
+}
+.wi-whatsapp:before {
+  content: "\e944";
+}
+.wi-x:before {
+  content: "\e945";
+}
+.wi-yelp:before {
+  content: "\e946";
+}
+.wi-youtube:before {
+  content: "\e947";
+}
+.wi-zoom-in:before {
+  content: "\e948";
+}

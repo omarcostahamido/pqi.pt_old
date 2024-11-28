@@ -1,0 +1,17 @@
+
+.omw-counterupv2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  padding: 33px;
+}
+
+[module="counterupv2"] .counter {
+  font-size: 44px;
+  font-weight: 600;
+  color: #7b2314;
+  width: 152px;
+}
+/*# sourceMappingURL=style.css.map */

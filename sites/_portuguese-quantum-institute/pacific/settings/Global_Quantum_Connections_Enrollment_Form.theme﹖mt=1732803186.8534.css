@@ -1,0 +1,192 @@
+
+/*BEGIN w_1714486844389_17960747011*//*END w_1714486844389_17960747011*/
+/*BEGIN w_1714486844392_69166675118*//*END w_1714486844392_69166675118*/
+/*BEGIN w_1714486844394_53181708827*//*END w_1714486844394_53181708827*/
+/*BEGIN form_1714486844396_79056987551*/
+#builder-sections #form_1714486844396_79056987551 button {color:var(--cor5) !important; background-color:var(--cor1) !important; border-color:var(--cor1) !important; text-shadow:0px 5px 5px var(--cor6) !important;}
+#builder-sections #form_1714486844396_79056987551 button:hover {color:var(--cor5) !important; background-color:var(--cor2) !important;}
+#builder-sections #form_1714486844396_79056987551 input, #builder-sections  #form_1714486844396_79056987551 textarea, #builder-sections #form_1714486844396_79056987551 .omw-form-select select, #builder-sections #form_1714486844396_79056987551 textarea {color:var(--cor1) !important; background-color:var(--cor4) !important; }
+#builder-sections #form_1714486844396_79056987551 input, #builder-sections  #form_1714486844396_79056987551 textarea, #builder-sections #form_1714486844396_79056987551 .omw-form-select select, #builder-sections #form_1714486844396_79056987551 textarea, #builder-sections.live-preview #form_1714486844396_79056987551 .omw-form-select .nice-select {border-left: 2px solid var(--cor1) !important;}
+#builder-sections #form_1714486844396_79056987551 input, #builder-sections  #form_1714486844396_79056987551 textarea, #builder-sections #form_1714486844396_79056987551 .omw-form-select select, #builder-sections #form_1714486844396_79056987551 textarea, #builder-sections.live-preview #form_1714486844396_79056987551 .omw-form-select .nice-select {border-right: 2px solid var(--cor1) !important;}
+#builder-sections #form_1714486844396_79056987551 input, #builder-sections  #form_1714486844396_79056987551 textarea, #builder-sections #form_1714486844396_79056987551 .omw-form-select select, #builder-sections #form_1714486844396_79056987551 textarea, #builder-sections.live-preview #form_1714486844396_79056987551 .omw-form-select .nice-select {border-top: 2px solid var(--cor1) !important;}
+#builder-sections #form_1714486844396_79056987551 input, #builder-sections  #form_1714486844396_79056987551 textarea, #builder-sections #form_1714486844396_79056987551 .omw-form-select select, #builder-sections #form_1714486844396_79056987551 textarea, #builder-sections.live-preview #form_1714486844396_79056987551 .omw-form-select .nice-select {border-bottom: 2px solid var(--cor1) !important;}
+#builder-sections #form_1714486844396_79056987551 .omw-form-select .nice-select {color:var(--cor1) !important; background-color:var(--cor4) !important;}
+#builder-sections #form_1714486844396_79056987551 .omw-form-description {color:var(--cor1) !important; }
+#builder-sections #form_1714486844396_79056987551 .errorClass {border-color:rgb(232, 15, 15) !important; }
+#builder-sections #form_1714486844396_79056987551 label {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1714486844396_79056987551 input {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1714486844396_79056987551 textarea {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1714486844396_79056987551 .omw-form-select select {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1714486844396_79056987551 .omw-form-description {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1714486844396_79056987551 button span {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1714486844396_79056987551 .omw-customField button:hover {color:var(--cor5) !important; background-color:var(--cor2) !important;}
+#builder-sections #form_1714486844396_79056987551 .errorClass {border: 1px solid rgb(232, 15, 15) !important;}
+#builder-sections #form_1714486844396_79056987551 input::-webkit-input-placeholder, textarea::-webkit-input-placeholder{color: var(--cor1);}
+#builder-sections #form_1714486844396_79056987551 input:-ms-input-placeholder, textarea:-ms-input-placeholder{color: var(--cor1);}
+#builder-sections #form_1714486844396_79056987551 input::-moz-placeholder, textarea::-moz-placeholder{color: var(--cor1);}
+#builder-sections #form_1714486844396_79056987551 input:-moz-placeholder, textarea:-moz-placeholder{color: var(--cor1);}
+#builder-sections #form_1714486844396_79056987551 label {color:var(--cor1) !important; background-color:rgba(0, 0, 0, 0) !important;}
+#builder-sections #form_1714486844396_79056987551 .omw-form-select .nice-select{background-color: var(--cor4);color:var(--cor1); font-size:14px !important;}
+/*END form_1714486844396_79056987551*/
+/*BEGIN textv2_1707235975082_64064968224*//*END textv2_1707235975082_64064968224*//*BEGIN textv2_1707235975084_16324540019*//*END textv2_1707235975084_16324540019*//*BEGIN textv2_1707235975084_42511902801*/
+#builder-sections #textv2_1707235975084_42511902801 {background-color:rgba(0, 0, 0, 0) !important; border-color:rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1707235975084_42511902801 .omw-sentence {border-color:rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1707235975084_42511902801 .omw-sentence {border-left:0px solid rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1707235975084_42511902801 .omw-sentence {border-right:0px solid rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1707235975084_42511902801 .omw-sentence {border-top:0px solid rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1707235975084_42511902801 .omw-sentence {border-bottom:0px solid rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1707235975084_42511902801 .omw-sentence {padding:0px;}
+/*END textv2_1707235975084_42511902801*//*BEGIN buttonv2_1707235975085_75459569888*//*END buttonv2_1707235975085_75459569888*/
+/*BEGIN textv2_1710520580624_36411072215*/
+#builder-sections #textv2_1710520580624_36411072215 {background-color:rgba(0, 0, 0, 0) !important; border-color:rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1710520580624_36411072215 .omw-sentence {border-color:rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1710520580624_36411072215 .omw-sentence {border-left:0px solid rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1710520580624_36411072215 .omw-sentence {border-right:0px solid rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1710520580624_36411072215 .omw-sentence {border-top:0px solid rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1710520580624_36411072215 .omw-sentence {border-bottom:0px solid rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1710520580624_36411072215 .omw-sentence {padding:0px;}
+/*END textv2_1710520580624_36411072215*//*BEGIN textv2_1710520580625_28194208202*/
+#builder-sections #textv2_1710520580625_28194208202 {background-color:rgba(0, 0, 0, 0) !important; border-color:rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1710520580625_28194208202 .omw-sentence {border-color:rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1710520580625_28194208202 .omw-sentence {border-left:0px solid rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1710520580625_28194208202 .omw-sentence {border-right:0px solid rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1710520580625_28194208202 .omw-sentence {border-top:0px solid rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1710520580625_28194208202 .omw-sentence {border-bottom:0px solid rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1710520580625_28194208202 .omw-sentence {padding:0px;}
+/*END textv2_1710520580625_28194208202*//*BEGIN buttonv2_1710520580625_49447563398*/
+#builder-sections #buttonv2_1710520580625_49447563398 button.btn-style-base-custom {color:var(--cor5) !important; background-color:var(--cor1) !important; border-color:transparent !important;}
+#builder-sections #buttonv2_1710520580625_49447563398 button.btn-style-base-custom:hover {color:var(--cor5) !important; background-color:var(--cor2) !important; border-color:transparent !important;}
+/*END buttonv2_1710520580625_49447563398*/
+/*BEGIN textv2_1710521216568_64339806060*/
+#builder-sections #textv2_1710521216568_64339806060 {background-color:var(--cor1) !important; border-color:var(--cor1) !important;}
+#builder-sections #textv2_1710521216568_64339806060 .omw-sentence {border-color:var(--cor1) !important;}
+#builder-sections #textv2_1710521216568_64339806060 .omw-sentence {border-left:0px solid var(--cor1) !important;}
+#builder-sections #textv2_1710521216568_64339806060 .omw-sentence {border-right:0px solid var(--cor1) !important;}
+#builder-sections #textv2_1710521216568_64339806060 .omw-sentence {border-top:0px solid var(--cor1) !important;}
+#builder-sections #textv2_1710521216568_64339806060 .omw-sentence {border-bottom:0px solid var(--cor1) !important;}
+#builder-sections #textv2_1710521216568_64339806060 .omw-sentence {padding:0px;}
+/*END textv2_1710521216568_64339806060*/
+/*BEGIN textv2_1714494619171_99153166325*/
+#builder-sections #textv2_1714494619171_99153166325 {background-color:rgba(0, 0, 0, 0) !important; border-color:rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1714494619171_99153166325 .omw-sentence {border-color:rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1714494619171_99153166325 .omw-sentence {border-left:0px solid rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1714494619171_99153166325 .omw-sentence {border-right:0px solid rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1714494619171_99153166325 .omw-sentence {border-top:0px solid rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1714494619171_99153166325 .omw-sentence {border-bottom:0px solid rgba(0, 0, 0, 0) !important;}
+#builder-sections #textv2_1714494619171_99153166325 .omw-sentence {padding:0px;}
+/*END textv2_1714494619171_99153166325*/
+/*BEGIN title_1714494964489_21824469797*/
+#builder-sections #title_1714494964489_21824469797 {background-color:rgba(0, 0, 0, 0) !important; border-color:rgba(0, 0, 0, 0) !important;}
+#builder-sections #title_1714494964489_21824469797 .omw-sentence{border-color:rgba(0, 0, 0, 0) !important;}
+#builder-sections #title_1714494964489_21824469797 .omw-sentence{border-left:0px solid rgba(0, 0, 0, 0) !important;}
+#builder-sections #title_1714494964489_21824469797 .omw-sentence{border-right:0px solid rgba(0, 0, 0, 0) !important;}
+#builder-sections #title_1714494964489_21824469797 .omw-sentence{border-top:0px solid rgba(0, 0, 0, 0) !important;}
+#builder-sections #title_1714494964489_21824469797 .omw-sentence{border-bottom:0px solid rgba(0, 0, 0, 0) !important;}
+/*END title_1714494964489_21824469797*/
+/*BEGIN textv2_1714494720218_46104692133*/
+#builder-sections #textv2_1714494720218_46104692133 {background-color:var(--cor5) !important; border-color:var(--cor1) !important;}
+#builder-sections #textv2_1714494720218_46104692133 .omw-sentence {border-color:var(--cor1) !important;}
+#builder-sections #textv2_1714494720218_46104692133 .omw-sentence {border-left:0px solid var(--cor1) !important;}
+#builder-sections #textv2_1714494720218_46104692133 .omw-sentence {border-right:0px solid var(--cor1) !important;}
+#builder-sections #textv2_1714494720218_46104692133 .omw-sentence {border-top:0px solid var(--cor1) !important;}
+#builder-sections #textv2_1714494720218_46104692133 .omw-sentence {border-bottom:0px solid var(--cor1) !important;}
+#builder-sections #textv2_1714494720218_46104692133 .omw-sentence {padding:0px;}
+/*END textv2_1714494720218_46104692133*/
+/*BEGIN w_1714745237154_14461664599*//*END w_1714745237154_14461664599*/
+/*BEGIN w_1714745237156_39488119992*//*END w_1714745237156_39488119992*/
+/*BEGIN w_1714745237158_41698994239*//*END w_1714745237158_41698994239*/
+/*BEGIN w_1714745237164_93548499086*//*END w_1714745237164_93548499086*/
+/*BEGIN w_1714745237166_78398577005*//*END w_1714745237166_78398577005*/
+/*BEGIN w_1714745237167_24881375975*//*END w_1714745237167_24881375975*/
+/*BEGIN w_1714745237169_35309573141*//*END w_1714745237169_35309573141*/
+/*BEGIN form_1714745237171_63638549596*/
+#builder-sections #form_1714745237171_63638549596 button {color:var(--cor5) !important; background-color:var(--cor1) !important; border-color:var(--cor1) !important; text-shadow:0px 5px 5px var(--cor6) !important;}
+#builder-sections #form_1714745237171_63638549596 button:hover {color:var(--cor5) !important; background-color:var(--cor2) !important;}
+#builder-sections #form_1714745237171_63638549596 input, #builder-sections  #form_1714745237171_63638549596 textarea, #builder-sections #form_1714745237171_63638549596 .omw-form-select select, #builder-sections #form_1714745237171_63638549596 textarea {color:var(--cor1) !important; background-color:var(--cor4) !important; }
+#builder-sections #form_1714745237171_63638549596 input, #builder-sections  #form_1714745237171_63638549596 textarea, #builder-sections #form_1714745237171_63638549596 .omw-form-select select, #builder-sections #form_1714745237171_63638549596 textarea, #builder-sections.live-preview #form_1714745237171_63638549596 .omw-form-select .nice-select {border-left: 2px solid var(--cor1) !important;}
+#builder-sections #form_1714745237171_63638549596 input, #builder-sections  #form_1714745237171_63638549596 textarea, #builder-sections #form_1714745237171_63638549596 .omw-form-select select, #builder-sections #form_1714745237171_63638549596 textarea, #builder-sections.live-preview #form_1714745237171_63638549596 .omw-form-select .nice-select {border-right: 2px solid var(--cor1) !important;}
+#builder-sections #form_1714745237171_63638549596 input, #builder-sections  #form_1714745237171_63638549596 textarea, #builder-sections #form_1714745237171_63638549596 .omw-form-select select, #builder-sections #form_1714745237171_63638549596 textarea, #builder-sections.live-preview #form_1714745237171_63638549596 .omw-form-select .nice-select {border-top: 2px solid var(--cor1) !important;}
+#builder-sections #form_1714745237171_63638549596 input, #builder-sections  #form_1714745237171_63638549596 textarea, #builder-sections #form_1714745237171_63638549596 .omw-form-select select, #builder-sections #form_1714745237171_63638549596 textarea, #builder-sections.live-preview #form_1714745237171_63638549596 .omw-form-select .nice-select {border-bottom: 2px solid var(--cor1) !important;}
+#builder-sections #form_1714745237171_63638549596 .omw-form-select .nice-select {color:var(--cor1) !important; background-color:var(--cor4) !important;}
+#builder-sections #form_1714745237171_63638549596 .omw-form-description {color:var(--cor1) !important; }
+#builder-sections #form_1714745237171_63638549596 .errorClass {border-color:rgb(232, 15, 15) !important; }
+#builder-sections #form_1714745237171_63638549596 label {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1714745237171_63638549596 input {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1714745237171_63638549596 textarea {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1714745237171_63638549596 .omw-form-select select {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1714745237171_63638549596 .omw-form-description {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1714745237171_63638549596 button span {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1714745237171_63638549596 .omw-customField button:hover {color:var(--cor5) !important; background-color:var(--cor2) !important;}
+#builder-sections #form_1714745237171_63638549596 .errorClass {border: 1px solid rgb(232, 15, 15) !important;}
+#builder-sections #form_1714745237171_63638549596 input::-webkit-input-placeholder, textarea::-webkit-input-placeholder{color: var(--cor1);}
+#builder-sections #form_1714745237171_63638549596 input:-ms-input-placeholder, textarea:-ms-input-placeholder{color: var(--cor1);}
+#builder-sections #form_1714745237171_63638549596 input::-moz-placeholder, textarea::-moz-placeholder{color: var(--cor1);}
+#builder-sections #form_1714745237171_63638549596 input:-moz-placeholder, textarea:-moz-placeholder{color: var(--cor1);}
+#builder-sections #form_1714745237171_63638549596 label {color:var(--cor1) !important; background-color:rgba(0, 0, 0, 0) !important;}
+#builder-sections #form_1714745237171_63638549596 .omw-form-select .nice-select{background-color: var(--cor4);color:var(--cor1); font-size:14px !important;}
+/*END form_1714745237171_63638549596*/
+/*BEGIN w_1714745279099_27917891844*//*END w_1714745279099_27917891844*/
+/*BEGIN w_1714745279104_51610273603*//*END w_1714745279104_51610273603*/
+/*BEGIN w_1714745279107_23274671702*//*END w_1714745279107_23274671702*/
+/*BEGIN w_1714745279109_10898764637*//*END w_1714745279109_10898764637*/
+/*BEGIN w_1714745279111_47581200010*//*END w_1714745279111_47581200010*/
+/*BEGIN w_1714745279115_2200000339*//*END w_1714745279115_2200000339*/
+/*BEGIN w_1714745279116_63436017839*//*END w_1714745279116_63436017839*/
+/*BEGIN buttonv2_1707234852779_39501793622*/
+#builder-sections #buttonv2_1707234852779_39501793622 button.btn-style-base-custom {color:var(--cor5) !important; background-color:var(--cor1) !important; border-color:transparent !important;}
+#builder-sections #buttonv2_1707234852779_39501793622 button.btn-style-base-custom:hover {color:var(--cor5) !important; background-color:var(--cor2) !important; border-color:transparent !important;}
+/*END buttonv2_1707234852779_39501793622*/
+/*BEGIN textv2_1707234799096_39730284296*/
+#builder-sections #textv2_1707234799096_39730284296 {background-color:var(--cor1) !important; border-color:var(--cor1) !important;}
+#builder-sections #textv2_1707234799096_39730284296 .omw-sentence {border-color:var(--cor1) !important;}
+#builder-sections #textv2_1707234799096_39730284296 .omw-sentence {border-left:0px solid var(--cor1) !important;}
+#builder-sections #textv2_1707234799096_39730284296 .omw-sentence {border-right:0px solid var(--cor1) !important;}
+#builder-sections #textv2_1707234799096_39730284296 .omw-sentence {border-top:0px solid var(--cor1) !important;}
+#builder-sections #textv2_1707234799096_39730284296 .omw-sentence {border-bottom:0px solid var(--cor1) !important;}
+#builder-sections #textv2_1707234799096_39730284296 .omw-sentence {padding:0px;}
+/*END textv2_1707234799096_39730284296*/
+/*BEGIN text_1530028700813*/
+#builder-sections #text_1530028700813 {background-color:var(--cor1) !important; border-color:var(--cor1) !important;}
+#builder-sections #text_1530028700813 .omw-sentence {border-color:var(--cor1) !important;}
+#builder-sections #text_1530028700813 .omw-sentence {border-left:0px solid var(--cor1) !important;}
+#builder-sections #text_1530028700813 .omw-sentence {border-right:0px solid var(--cor1) !important;}
+#builder-sections #text_1530028700813 .omw-sentence {border-top:0px solid var(--cor1) !important;}
+#builder-sections #text_1530028700813 .omw-sentence {border-bottom:0px solid var(--cor1) !important;}
+/*END text_1530028700813*/
+/*BEGIN form_1698416250939_59007434298*/
+#builder-sections #form_1698416250939_59007434298 button {color:var(--cor5) !important; background-color:var(--cor1) !important; border-color:var(--cor1) !important; text-shadow:0px 5px 5px var(--cor6) !important;}
+#builder-sections #form_1698416250939_59007434298 button:hover {color:var(--cor5) !important; background-color:var(--cor2) !important;}
+#builder-sections #form_1698416250939_59007434298 input, #builder-sections  #form_1698416250939_59007434298 textarea, #builder-sections #form_1698416250939_59007434298 .omw-form-select select, #builder-sections #form_1698416250939_59007434298 textarea {color:var(--cor1) !important; background-color:var(--cor4) !important; }
+#builder-sections #form_1698416250939_59007434298 input, #builder-sections  #form_1698416250939_59007434298 textarea, #builder-sections #form_1698416250939_59007434298 .omw-form-select select, #builder-sections #form_1698416250939_59007434298 textarea, #builder-sections.live-preview #form_1698416250939_59007434298 .omw-form-select .nice-select {border-left: 2px solid var(--cor1) !important;}
+#builder-sections #form_1698416250939_59007434298 input, #builder-sections  #form_1698416250939_59007434298 textarea, #builder-sections #form_1698416250939_59007434298 .omw-form-select select, #builder-sections #form_1698416250939_59007434298 textarea, #builder-sections.live-preview #form_1698416250939_59007434298 .omw-form-select .nice-select {border-right: 2px solid var(--cor1) !important;}
+#builder-sections #form_1698416250939_59007434298 input, #builder-sections  #form_1698416250939_59007434298 textarea, #builder-sections #form_1698416250939_59007434298 .omw-form-select select, #builder-sections #form_1698416250939_59007434298 textarea, #builder-sections.live-preview #form_1698416250939_59007434298 .omw-form-select .nice-select {border-top: 2px solid var(--cor1) !important;}
+#builder-sections #form_1698416250939_59007434298 input, #builder-sections  #form_1698416250939_59007434298 textarea, #builder-sections #form_1698416250939_59007434298 .omw-form-select select, #builder-sections #form_1698416250939_59007434298 textarea, #builder-sections.live-preview #form_1698416250939_59007434298 .omw-form-select .nice-select {border-bottom: 2px solid var(--cor1) !important;}
+#builder-sections #form_1698416250939_59007434298 .omw-form-select .nice-select {color:var(--cor1) !important; background-color:var(--cor4) !important;}
+#builder-sections #form_1698416250939_59007434298 .omw-form-description {color:var(--cor1) !important; }
+#builder-sections #form_1698416250939_59007434298 .errorClass {border-color:rgb(232, 15, 15) !important; }
+#builder-sections #form_1698416250939_59007434298 label {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1698416250939_59007434298 input {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1698416250939_59007434298 textarea {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1698416250939_59007434298 .omw-form-select select {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1698416250939_59007434298 .omw-form-description {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1698416250939_59007434298 button span {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1698416250939_59007434298 .omw-customField button:hover {color:var(--cor5) !important; background-color:var(--cor2) !important;}
+#builder-sections #form_1698416250939_59007434298 .errorClass {border: 1px solid rgb(232, 15, 15) !important;}
+#builder-sections #form_1698416250939_59007434298 input::-webkit-input-placeholder, textarea::-webkit-input-placeholder{color: var(--cor1);}
+#builder-sections #form_1698416250939_59007434298 input:-ms-input-placeholder, textarea:-ms-input-placeholder{color: var(--cor1);}
+#builder-sections #form_1698416250939_59007434298 input::-moz-placeholder, textarea::-moz-placeholder{color: var(--cor1);}
+#builder-sections #form_1698416250939_59007434298 input:-moz-placeholder, textarea:-moz-placeholder{color: var(--cor1);}
+#builder-sections #form_1698416250939_59007434298 label {color:var(--cor1) !important; background-color:rgba(0, 0, 0, 0) !important;}
+#builder-sections #form_1698416250939_59007434298 .omw-form-select .nice-select{background-color: var(--cor4);color:var(--cor1); font-size:14px !important;}
+/*END form_1698416250939_59007434298*/
+
+/*BEGIN textv2_1714745912109_74543867887*/
+#builder-sections #textv2_1714745912109_74543867887 {background-color:var(--cor5) !important; border-color:var(--cor1) !important;}
+#builder-sections #textv2_1714745912109_74543867887 .omw-sentence {border-color:var(--cor1) !important;}
+#builder-sections #textv2_1714745912109_74543867887 .omw-sentence {border-left:0px solid var(--cor1) !important;}
+#builder-sections #textv2_1714745912109_74543867887 .omw-sentence {border-right:0px solid var(--cor1) !important;}
+#builder-sections #textv2_1714745912109_74543867887 .omw-sentence {border-top:0px solid var(--cor1) !important;}
+#builder-sections #textv2_1714745912109_74543867887 .omw-sentence {border-bottom:0px solid var(--cor1) !important;}
+#builder-sections #textv2_1714745912109_74543867887 .omw-sentence {padding:0px;}
+
+/*END textv2_1714745912109_74543867887*/

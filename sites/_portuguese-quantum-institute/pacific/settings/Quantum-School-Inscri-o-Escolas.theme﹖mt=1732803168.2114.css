@@ -1,0 +1,43 @@
+
+/*BEGIN w_1646925828790*/
+#builder-sections [idd='w_1646925828790'] {background-color:var(--cor5) !important; }
+/*END w_1646925828790*/
+/*BEGIN undefined*/
+#builder-sections [idd='undefined'] {background-color:var(--cor5) !important; }
+/*END undefined*/
+/*BEGIN text_1530028700813*/
+#builder-sections #text_1530028700813 {background-color:var(--cor1) !important; border-color:var(--cor1) !important;}
+#builder-sections #text_1530028700813 .omw-sentence {border-color:var(--cor1) !important;}
+#builder-sections #text_1530028700813 .omw-sentence {border-left:0px solid var(--cor1) !important;}
+#builder-sections #text_1530028700813 .omw-sentence {border-right:0px solid var(--cor1) !important;}
+#builder-sections #text_1530028700813 .omw-sentence {border-top:0px solid var(--cor1) !important;}
+#builder-sections #text_1530028700813 .omw-sentence {border-bottom:0px solid var(--cor1) !important;}
+/*END text_1530028700813*/
+
+/*BEGIN form_1646924910464*/
+#builder-sections #form_1646924910464 button {color:var(--cor5) !important; background-color:var(--cor1) !important; border-color:var(--cor1) !important; text-shadow:0px 5px 5px var(--cor6) !important;}
+#builder-sections #form_1646924910464 button:hover {color:var(--cor5) !important; background-color:var(--cor2) !important;}
+#builder-sections #form_1646924910464 input, #builder-sections  #form_1646924910464 textarea, #builder-sections #form_1646924910464 .omw-form-select select, #builder-sections #form_1646924910464 textarea {color:var(--cor1) !important; background-color:var(--cor4) !important; }
+#builder-sections #form_1646924910464 input, #builder-sections  #form_1646924910464 textarea, #builder-sections #form_1646924910464 .omw-form-select select, #builder-sections #form_1646924910464 textarea, #builder-sections.live-preview #form_1646924910464 .omw-form-select .nice-select {border-left: 1px solid var(--cor1) !important;}
+#builder-sections #form_1646924910464 input, #builder-sections  #form_1646924910464 textarea, #builder-sections #form_1646924910464 .omw-form-select select, #builder-sections #form_1646924910464 textarea, #builder-sections.live-preview #form_1646924910464 .omw-form-select .nice-select {border-right: 1px solid var(--cor1) !important;}
+#builder-sections #form_1646924910464 input, #builder-sections  #form_1646924910464 textarea, #builder-sections #form_1646924910464 .omw-form-select select, #builder-sections #form_1646924910464 textarea, #builder-sections.live-preview #form_1646924910464 .omw-form-select .nice-select {border-top: 1px solid var(--cor1) !important;}
+#builder-sections #form_1646924910464 input, #builder-sections  #form_1646924910464 textarea, #builder-sections #form_1646924910464 .omw-form-select select, #builder-sections #form_1646924910464 textarea, #builder-sections.live-preview #form_1646924910464 .omw-form-select .nice-select {border-bottom: 1px solid var(--cor1) !important;}
+#builder-sections #form_1646924910464 .omw-form-select .nice-select {color:var(--cor1) !important; background-color:var(--cor4) !important;}
+#builder-sections #form_1646924910464 .omw-form-description {color:var(--cor1) !important; }
+#builder-sections #form_1646924910464 .errorClass {border-color:var(--cor3) !important; }
+#builder-sections #form_1646924910464 label {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1646924910464 input {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1646924910464 textarea {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1646924910464 .omw-form-select select {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1646924910464 .omw-form-description {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1646924910464 button span {font-family:var(--fonte1_f) !important; font-weight:var(--fonte1_w) !important; font-style:var(--fonte1_s) !important;}
+#builder-sections #form_1646924910464 .omw-customField button:hover {color:var(--cor5) !important; background-color:var(--cor2) !important;}
+#builder-sections #form_1646924910464 .errorClass {border: 1px solid var(--cor3) !important;}
+#builder-sections #form_1646924910464 input::-webkit-input-placeholder, textarea::-webkit-input-placeholder{color: var(--cor1);}
+#builder-sections #form_1646924910464 input:-ms-input-placeholder, textarea:-ms-input-placeholder{color: var(--cor1);}
+#builder-sections #form_1646924910464 input::-moz-placeholder, textarea::-moz-placeholder{color: var(--cor1);}
+#builder-sections #form_1646924910464 input:-moz-placeholder, textarea:-moz-placeholder{color: var(--cor1);}
+#builder-sections #form_1646924910464 label {color:var(--cor1) !important; background-color:rgba(0, 0, 0, 0) !important;}
+#builder-sections #form_1646924910464 .omw-form-select .nice-select{background-color: var(--cor4);color:var(--cor1); font-size:14px !important;}
+
+/*END form_1646924910464*/

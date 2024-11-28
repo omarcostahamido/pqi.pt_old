@@ -1,0 +1,42 @@
+
+/*BEGIN headings*/
+ .omw-body-container h1, #builder-sections .module .omw-sentence h1 {font-size:30px;font-family:Barlow; font-style:normal; font-weight:500;line-height:36px;letter-spacing:px;color:var(--cor1)}
+ .omw-product-detail-box .rightPanel .omw-prod-detail-title h1 {font-family:Barlow !important; font-style:normal !important; font-weight:500 !important;}
+.slidelite_overlay_titulo{font-family:Barlow; font-style:normal; font-weight:500;}.sweet-alert.customsweetnotification h2{font-family:Barlow; font-style:normal; font-weight:500;color:var(--cor1);}.sweet-alert.customsweetnotification button{font-family:Barlow; font-style:normal; font-weight:300;}.omw-body-container h2,#builder-sections .module .omw-sentence h2,#builder-sections .module .omw-sentence h2 span, .caixaTitulos .slidelite_overlay_titulo {font-size:24px;font-family:Barlow; font-style:normal; font-weight:;line-height:30px;letter-spacing:px;color:var(--cor1)}
+.omw-body-container h3, #builder-sections .module .omw-sentence h3,#builder-sections .module .omw-sentence h3 span {font-size:20px;font-family:Barlow; font-style:normal; font-weight:300;line-height:26px;letter-spacing:px;color:var(--cor1)}
+.sweet-alert.customsweetnotification p,.omw-body-container p,.omw-body-container span, #builder-sections .omw-sentence p, #builder-sections .omw-sentence ul li, #builder-sections .omw-sentence ol li,#builder-sections .omw-sentence, #builder-sections .omw-sentence>span, [module='productdetail'] #tabs .ui-tabs-panel p, [module='productdetail'] #tabs .ui-tabs-panel ul li, [module='productdetail'] #tabs .ui-tabs-panel ol li,[module='productdetail'] .smallDescricao p, .omw-responsive-bar .dl-menuwrapper li a,#builder-sections [module='productdetail'] .prodAnexosLinha{font-size:18px;font-family:Barlow; font-style:normal; font-weight:300;line-height:24px;letter-spacing:px;color:var(--cor1)}
+[module='productdetail'] #tabs .ui-tabs-panel ul, [module='productdetail'] #tabs .ui-tabs-panel ol{margin-left:18px;}
+[module='productdetail'] #tabs .ui-tabs-panel ul li, [module='productdetail'] #tabs .ui-tabs-panel ol li{margin-left:18px;}
+#builder-sections .omw-breadcrumbs .omw-active{color:var(--cor1) !important}
+#builder-sections .carrinhoVazioBox .mensagem{color:var(--cor1) !important}
+[module='productdetail'], [module='productdetail'] .omw-prod-detail-subtext, [module='productdetail'] .omw-prod-detail-subtext a, [module='productdetail'] .omw-prod-detail-price, [module='productdetail'] .subTitulo, [module='productdetail'] .omw-prod-detail-extra-fields .extraHolder h2, [module='productdetail'] .omw-product-detail-box .omw-prod-detail-fields-cart .extraHolder .pers_titulo, .omw-product-detail-box .omw-prod-detail-add-cart #qty, .omw-product-detail-box .omw-prod-detail-share .logoShare, .omw-product-detail-box .omw-prod-detail-ceTitulo, .omw-product-detail-box .omw-prod-detail-ceDescricao, .omw-product-detail-box .rightPanel .omw-prod-detail-global-comments, .omw-product-detail-box #tabs .commentBox .comment-descricao, .omw-product-detail-box .addCommentBox form .lbl_av, .omw-product-detail-box .addCommentBox form label[for='comment'], .omw-product-detail-box .addCommentBox form input[type='text'], .omw-product-detail-box .addCommentBox form textarea, .omw-product-detail-box .rightPanel .omw-prod-detail-subtitle, .omw-product-detail-box .omw-prod-detail-price-box .omw-prod-detail-normal-price-resurado, .omw-product-detail-box #tabs .commentBox .comment-user, .omw-product-detail-box #tabs .commentBox .comment-data{color:var(--cor1) !important}
+[module='shoppingcartfull'] .cabecalho div, [module='shoppingcartfull'] .linha .preco, [module='shoppingcartfull'] .linha .subTitulo, [module='shoppingcartfull'] .totalBox .titulo, [module='shoppingcartfull'] .totalCart, [module='shoppingcartfull'] .totalBox .box .totais .descricao1, [module='shoppingcartfull'] .totalBox .box .totais .valor, [module='shoppingcartfull'] .totalBox .box .subtotal .valor, [module='shoppingcartfull'] .totalBox .box .subtotal .descricao, [module='shoppingcartfull'] .omw-tax-info-total, [module='shoppingcartfull'] .entregaCabecalho, [module='shoppingcartfull'] .entregaMorada div, [module='shoppingcartfull'] .entregaMorada label, [module='shoppingcartfull'] .alterarMoradaFacturacaoBox label, [module='shoppingcartfull'] .entregaCabecalho2, [module='shoppingcartfull'] .linhaMetodoEntregaBox span, [module='shoppingcartfull'] .containerDadosEntrega label, [module='shoppingcartfull'] .omw-comentario-box label, [module='shoppingcartfull'] .totalBox .box .subtotal .valorLight, [module='shoppingcartfull'] .totalBox .box .subtotal .valorBold, [module='shoppingcartfull'] .totalBox .box .subtotal .valorSemiBold, [module='shoppingcartfull'] .omw-output-message, [module='shoppingcartfull'] .sucesso_mensagem, [module='shoppingcartfull'] .omw-output-message-tracking, [module='shoppingcartfull'] .stepActive, [module='shoppingcartfull'] .stepBox:hover .stepText {color:var(--cor1) !important}
+#builder-sections .omw-breadcrumbs{font-family:Barlow; font-style:normal; font-weight:300;line-height:24px;letter-spacing:px;}
+.section-box,.section-box-card{max-width:1200px !important;}
+.section-box-sidebar{max-width:1200px !important;}
+#builder-sections a{color:var(--cor1);}
+#builder-sections a:hover{color:var(--cor1) !important;}
+.omw-default-font{font-family:Barlow !important; font-style:normal !important; font-weight:300 !important;}
+.omw-legal-footer-bar{padding:10px;font-size:11px;font-family:Barlow !important; font-style:normal !important; font-weight:300 !important;background-color:rgb(9, 12, 23) !important;color:rgb(255, 255, 255) !important}
+.omw-legal-footer-bar a{margin-right:10px;text-decoration:none !important;font-family:Barlow !important; font-style:normal !important; font-weight:300 !important;color:rgb(255, 255, 255) !important}
+.omw-legal-footer-bar a:last-child{margin-right:0}
+#builder-sections .omw-legal-footer-bar a:hover{opacity:.6 !important;color:rgb(255, 255, 255) !important}
+.omw-responsive-bar, .dl-menuwrapper ul,.dl-menuwrapper button::after,.omw-responsive-bar .langOptions,.omw-responsive-bar .omw-currency ul.omw-currency-selector-options{background-color:rgb(9, 12, 23) !important;}
+.omw-responsive-bar,#builder-sections.live-preview .omw-responsive-bar .dl-menuwrapper li a,.dl-menuwrapper li > a::after,.dl-menuwrapper li.dl-back::after,.omw-responsive-bar .omw-currency a span span{color:rgb(255, 255, 255) !important;}
+.dl-menuwrapper button span{background-color:rgb(255, 255, 255) !important;}
+.omw-responsive-bar .omw-currency ul.omw-currency-selector-options{border-color:rgb(9, 12, 23) !important;}
+.respMegamenuMain{border-color:rgb(255, 255, 255) !important;}
+.omw-responsive-bar .respBarModBox .omw-login-link i, .omw-responsive-bar .respBarModBox .omw-cart-link i, .omw-responsive-bar .respBarModBox span:not(.btnLoginSubmeter){color:rgb(255, 255, 255) !important;}
+.omw-responsive-bar .respBarModBox i.btnpesquisa, #builder-sections .omw-responsive-bar .respBarModBox i.btnpesquisa:hover {color:rgb(255, 255, 255) !important;}
+.omw-responsive-bar svg{fill: rgb(255, 255, 255) !important;}
+#cbp-spmenu-s1 {font-family:Barlow !important; font-style:normal !important; font-weight:300 !important;}
+.dl-menuwrapper button::after{background:rgb(255, 255, 255) !important;box-shadow:0 10px 0 rgb(255, 255, 255), 0 20px 0 rgb(255, 255, 255) !important;}
+.item-loader-container div div{color:  !important;}
+@media screen and (max-width: 480px) {
+				.module[module='callToAction']{padding: px px !important;}
+				.module[module='button']{padding: px px !important;}
+				.module[module='title']{padding: px px !important;}
+				.module[module='text']{padding: px px !important;}
+				.module[module='features']{padding: px px !important;}
+			}
+/*END headings*/
